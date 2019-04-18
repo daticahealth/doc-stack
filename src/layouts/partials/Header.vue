@@ -1,14 +1,14 @@
 <template>
   <header>
     <div class="header-inner container flex gap-30">
-      <Logo/>
+      <!-- <Logo/> -->
 
       <Nav class="flex-fit"/>
 
       <nav class="header-actions flex">
         <SearchForm class="hide-for-small"/>
 
-        <a
+        <!-- <a
           aria-label="Twitter"
           href="//twitter.com/gridsome"
           rel="noopener noreferrer"
@@ -26,7 +26,7 @@
           title="Join our discord"
         >
           <discord-logo/>
-        </a>
+        </a> -->
         
         <a
           aria-label="github"

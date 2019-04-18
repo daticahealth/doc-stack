@@ -4,15 +4,8 @@
       link: /docs/introduction
     - title: HIPAA Inheritance
       link: /docs/hipaa-inheritance
-
-- title: Fundamentals
-  items:
-    - title: Key Definitions
-      link: /docs/key-definitions
-    - title: Datica HIPAA Business Associate Agreement
-      link: /docs/datica-hipaa-business-associate-agreement
-    - title: HIPAA Mapping To Datica Controls
-      link: /docs/hipaa-mapping-to-datica-controls
+    - title: Gridsome example (querying)
+      link: /docs/querying-data
 
 - title: Policies
   items:
@@ -54,3 +47,12 @@
       link: /docs/approved-tools-policy
     - title: 3rd Party Policy
       link: /docs/3rd-party-policy
+
+- title: Fundamentals
+  items:
+    - title: Key Definitions
+      link: /docs/key-definitions
+    - title: Datica HIPAA Business Associate Agreement
+      link: /docs/datica-hipaa-business-associate-agreement
+    - title: HIPAA Mapping To Datica Controls
+      link: /docs/hipaa-mapping-to-datica-controls
