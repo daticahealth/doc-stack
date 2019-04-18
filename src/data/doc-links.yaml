@@ -1,0 +1,56 @@
+- title: Introduction
+  items:
+    - title: Introduction
+      link: /docs/introduction
+    - title: HIPAA Inheritance
+      link: /docs/hipaa-inheritance
+
+- title: Fundamentals
+  items:
+    - title: Key Definitions
+      link: /docs/key-definitions
+    - title: Datica HIPAA Business Associate Agreement
+      link: /docs/datica-hipaa-business-associate-agreement
+    - title: HIPAA Mapping To Datica Controls
+      link: /docs/hipaa-mapping-to-datica-controls
+
+- title: Policies
+  items:
+    - title: Policy Management Policy
+      link: /docs/policy-management-policy
+    - title: Risk Management Policy
+      link: /docs/risk-management-policy
+    - title: Roles Policy
+      link: /docs/roles-policy
+    - title: Data Management Policy
+      link: /docs/data-management-policy
+    - title: Systems Access Policy
+      link: /docs/systems-access-policy
+    - title: Auditing Policy
+      link: /docs/auditing-policy
+    - title: Configuration Management Policy
+      link: /docs/configuration-management-policy
+    - title: Facility Access Policy
+      link: /docs/facility-access-policy
+    - title: Incident Response Policy
+      link: /docs/incident-response-policy
+    - title: Breach Policy
+      link: /docs/breach-policy
+    - title: Disaster Recovery Policy
+      link: /docs/disaster-recovery-policy
+    - title: Disposable Media Policy
+      link: /docs/disposable-media-policy
+    - title: Ids Policy
+      link: /docs/ids-policy
+    - title: Vulnerability Scanning Policy
+      link: /docs/vulnerability-scanning-policy
+    - title: Data Integrity Policy
+      link: /docs/data-integrity-policy
+    - title: Data Retention Policy
+      link: /docs/data-retention-policy
+    - title: Employees Policy
+      link: /docs/employees-policy
+    - title: Approved Tools Policy
+      link: /docs/approved-tools-policy
+    - title: 3rd Party Policy
+      link: /docs/3rd-party-policy
